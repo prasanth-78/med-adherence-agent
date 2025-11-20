@@ -1,0 +1,9 @@
+# requirements.txt
+# Replace 'adk' with the correct ADK-Python install name/version if required by course
+adk
+pandas
+matplotlib
+pytest
+python-dotenv
+fastapi
+uvicorn
